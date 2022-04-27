@@ -1,14 +1,14 @@
 {
-  "name": "@pangolindex/web3-react-injected-connector",
+  "name": "@traderjoe-xyz/web3-react-injected-connector",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A fork of @web3-react/injected-connector with a bug fixed.",
-  "author": "Connor Daly <connor.daly@avalabs.org>",
+  "author": "Trader Joe XYZ <team@traderjoexyz.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pangolindex/web3-react-injected-connector"
+    "url": "https://github.com/traderjoe-xyz/web3-react-injected-connector"
   },
   "main": "dist/index.js",
   "module": "dist/injected-connector.esm.js",
